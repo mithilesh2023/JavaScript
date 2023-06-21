@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: tan;
+}
+.container{
+    width: 22%;
+    height: 420px;
+    background-color: rgb(253, 17, 17);
+    margin: auto;
+    padding: 5px;
+    border-radius: 5px;
+    margin-top: 100px;
+}
+input{
+    width: 100%;
+    padding: 10px 0;
+    border-radius: 2px;
+    border: 0;
+    font-size: 40px;
+}
+.row{
+    margin-top: 6px;
+}
+.btn{
+    width: 64px;
+    height: 64px;
+    padding: 3px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    margin-left: 1.3px;
+}
